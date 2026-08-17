@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devaraja H M
 
-### 💻 Full-Stack Developer | Computer Science Engineering Graduate | AI/ML Enthusiast
+ Computer Science Engineering Graduate | AI/ML Enthusiast
 
 I'm a Computer Science Engineering graduate with hands-on experience in **Full-Stack Web Development, Python, Machine Learning, and Data Science**.
 
